@@ -1,5 +1,0 @@
-site_name: My Docs 2
-docs_dir: .
-pages:
-- Home: index.md
-- README: README.md
